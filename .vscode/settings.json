@@ -1,0 +1,7 @@
+{
+    "ecsstractor_port.add_comment": false,
+    "ecsstractor_port.bem_nesting": false,
+    "ecsstractor_port.comment_style": "css",
+    "ecsstractor_port.modifier_separator": "_",
+    "ecsstractor_port.indentation": ""
+}
